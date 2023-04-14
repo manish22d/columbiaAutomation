@@ -1,6 +1,6 @@
 package com.columbia.po;
 
-import com.columbia.po.salesHub.SalesDashboard;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,8 +12,7 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 @Component
 public class Login extends BasePage {
 
-    @Autowired
-    SalesDashboard salesDashboard;
+
     @FindBy(name = "loginfmt")
     WebElement emailTextbox;
 
@@ -40,10 +39,6 @@ public class Login extends BasePage {
         nxtbtn.click();
         return this;
     }
-    public SalesDashboard launchSalesHub(){
-        wait.until(visibilityOf(salesHub));
-        salesHub.click();
-        return salesDashboard;
-    }
+
 
 }

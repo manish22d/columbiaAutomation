@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af24d94e-9996-42aa-ac15-9df0c4cce6d1" name="Changes" comment="" />
+    <list default="true" id="af24d94e-9996-42aa-ac15-9df0c4cce6d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/columbia/features/IntakeTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/columbia/library/WebDriverLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/columbia/library/WebDriverLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/columbia/po/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/columbia/po/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/columbia/po/salesHub/SalesDashboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/Columbia.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/authentication/AuthenticationTest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/functional/createBook.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/functional/deleteBook.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/functional/getAllBooks.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/functional/getBookById.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/functional/updateBook.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/features/requestValidation/RequestValidation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/stepdef/SpringBootRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/columbia/stepdef/SpringBootRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/stepdef/authentication/AuthenticationStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/stepdef/functional/BookDetailsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/stepdef/functional/StatusCodeSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/stepdef/requestvalidation/RequestValidationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/columbia/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/columbia/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/columbia/po/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/columbia/po/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/columbia/po/salesHub/SalesDashboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/columbia/stepdef/SpringBootRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/columbia/stepdef/SpringBootRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/columbia/stepdef/authentication/AuthenticationStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/columbia/stepdef/functional/BookDetailsSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/columbia/stepdef/functional/StatusCodeSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/columbia/stepdef/requestvalidation/RequestValidationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/columbia/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/columbia/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/config/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +47,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,7 +61,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2O49BdPRZv52ZoGLEEztjYCK9kn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +72,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Automation/Java/cucumber/columbiaAutomation/src/main/java/com/columbia/utils&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Automation/Java/cucumber/columbiaAutomation/src/test&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -49,7 +84,27 @@
       <recent name="D:\Automation\Java\cucumber\columbiaAutomation\src\main\java\com\columbia\library" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber Java.Scenario: verify user is able to update claim details">
+    <configuration name="Scenario: verify user is able to update claim details" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/columbia/features/IntakeTest.feature" />
+      <option name="GLUE" value="com.columbia.stepdef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="automation" />
+      <option name="NAME_FILTER" value="^verify user is able to update claim details$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^verify user is able to update claim details$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify user is able to update claim details" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DynamicsTest.testOppty" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automation" />
       <extension name="coverage">
@@ -68,8 +123,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.columbia.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.columbia.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.columbia.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: verify user is able to update claim details" />
+        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="TestNG.DynamicsTest.testOppty" />
       </list>
     </recent_temporary>
@@ -84,5 +158,16 @@
       <updated>1680808855417</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

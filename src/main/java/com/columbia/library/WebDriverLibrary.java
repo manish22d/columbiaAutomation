@@ -25,7 +25,7 @@ public class WebDriverLibrary {
         chromeOptions.setExperimentalOption("useAutomationExtension", false);
         chromeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
         chromeOptions.addArguments("--remote-allow-origins=*");
-        chromeOptions.addArguments("user-data-dir=C:\\Users\\mrman\\AppData\\Local\\Google\\Chrome\\User Data\\Default");
+
 
         Map<String, Object> prefs = new HashMap<String, Object>();
         prefs.put("credentials_enable_service", false);
